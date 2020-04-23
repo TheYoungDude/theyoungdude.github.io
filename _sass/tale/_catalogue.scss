@@ -1,8 +1,8 @@
 .catalogue {
   &-item {
-    border-bottom: 1px solid $grey-2;
+    border-bottom: 1px solid #2f2d2d;
     color: $default-color;
-    display: block;
+    display: block; 
     padding: 2rem 0;
 
     &:hover .catalogue-line,
@@ -24,7 +24,7 @@
   &-title {
     color: $default-shade;
     display: block;
-    font-family: $sans-serif;
+    font-family: $sans-serif-secondary;
     font-size: 2rem;
     font-weight: 700;
     margin: .5rem 0;
