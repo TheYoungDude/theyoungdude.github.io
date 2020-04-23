@@ -1,17 +1,16 @@
 # Site settings
-title:          Tale
-description:    "Minimal Jekyll theme for storytellers"
-baseurl:        "/tale"
-url:            "https://chesterhow.github.io"
+title:          La Quatrieme Galaxie sur la Gauche
+description:    "la quatrieme galaxie sur la gauche"
+url:            "https://theyoungdude.github.io/"
 
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
 
 # Author
 author:
-  name:         Chester How
+  name:         Saul P.
   url:          https://chester.how
-  email:        chesterhow@gmail.com
+  email:        the_young_dude@protonmail.com
 
 # Build settings
 markdown:       kramdown
@@ -37,6 +36,3 @@ paginate:       5
 # Excludes
 exclude: [ Gemfile, Gemfile.lock, tale.gemspec ]
 
-# Disqus (Set to your disqus id)
-disqus:         jekyll-tale
-theme: jekyll-theme-minimal
