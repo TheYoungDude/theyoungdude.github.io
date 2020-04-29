@@ -18,6 +18,7 @@
     font-size: 4rem;
     margin: 1rem 0;
     text-align: center;
+    letter-spacing: -1px;
   }
 
   &-line {
@@ -34,6 +35,10 @@
 
   a:hover {
     text-decoration: underline;
+  }
+
+  strong {
+    font-weight: bolder;
   }
 
   img {

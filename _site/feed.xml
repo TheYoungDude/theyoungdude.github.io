@@ -1,150 +1,43 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-04-23T19:59:00+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">🕳 Quatrième Galaxie sur la Gauche</title><subtitle>des écrits, des réflexions en vrax, peut-être un podcast, un jour</subtitle><author><name>The Young Dude</name><email>the_young_dude@protonmail.com</email></author><entry><title type="html">Introducing Tale</title><link href="http://localhost:4000/2017-03-29/introducing-tale" rel="alternate" type="text/html" title="Introducing Tale" /><published>2017-03-29T00:00:00+02:00</published><updated>2017-03-29T00:00:00+02:00</updated><id>http://localhost:4000/2017-03-29/introducing-tale</id><content type="html" xml:base="http://localhost:4000/2017-03-29/introducing-tale">&lt;p&gt;Tale is a minimal &lt;a href=&quot;https://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt; theme curated for storytellers. It is designed and developed by &lt;a href=&quot;https://github.com/chesterhow/&quot;&gt;myself&lt;/a&gt; for a friend who writes short stories.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-04-29T19:10:36+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">🕳 Quatrième Galaxie sur la Gauche</title><subtitle>des écrits, des réflexions en vrac, peut-être un podcast, un jour</subtitle><author><name>The Young Dude</name><email>the_young_dude@protonmail.com</email></author><entry><title type="html">Katronavirus</title><link href="http://localhost:4000/2020-04-29/introducing-tale" rel="alternate" type="text/html" title="Katronavirus" /><published>2020-04-29T00:00:00+02:00</published><updated>2020-04-29T00:00:00+02:00</updated><id>http://localhost:4000/2020-04-29/introducing-tale</id><content type="html" xml:base="http://localhost:4000/2020-04-29/introducing-tale">&lt;p&gt;On est bien d’accord que commencer un blog pendant le confinement de 2020 est totalement cliché. Encore plus cliché : écrire son « two-bit » sur le confinement, des fois qu’il n’y ait pas eu assez de réflexions sur le sujet. Faire une prédiction, essayer de dire un truc intelligent, des fois que ce soit ça, pour faire visionnaire.&lt;/p&gt;
 
-&lt;h2 id=&quot;tale-features&quot;&gt;Tale features&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Compatible with GitHub Pages&lt;/li&gt;
-  &lt;li&gt;Responsive design (looks just as good on mobile)&lt;/li&gt;
-  &lt;li&gt;Syntax highlighting, with the help of Pygments&lt;/li&gt;
-  &lt;li&gt;Markdown and HTML text formatting&lt;/li&gt;
-  &lt;li&gt;Pagination of posts&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;Comme le confinement dure depuis un moment, on ne peut pas faire comme si le paysage des discours était vierge. Il y a celles et ceux qui pensent que le confinement c’est horrible (ils et elles ont raison), celles et ceux qui pensent que le confinement est une chance (ils et elles ont raison aussi). On écrit aussi pas mal sur l’urgence politique à profiter du moment pour penser une sortie du capitalisme, ou au moins à repenser la manière dont celui-ci diffuse son impose le paradigme de la consommation un peu partout, tant et si bien qu’on consomme les produits, mais aussi les gens, les espaces, le temps, de manière excessive, irraisonnée et mortifère. Ok à tout ça.&lt;/p&gt;
 
-&lt;p&gt;Head over to the &lt;a href=&quot;/2017-03-16/example-content&quot;&gt;Example Content&lt;/a&gt; post for a showcase of Tale’s text formatting features.&lt;/p&gt;
+&lt;p&gt;Pendant le confinement, j’ai regardé comme plein de gens des séries. Je n’ai pas forcément bingé, d’ailleurs j’ai l’impression que le “binge” était un peu moins d’actualité (peut-être que c’est moins facile de binger quand c’est permis ?). J’ai eu envie de voir des choses que j’avais ratées, que je n’avais jamais pris le temps de voir. C’est comme ça que j’ai vu &lt;em&gt;Treme&lt;/em&gt;.&lt;/p&gt;
 
-&lt;h2 id=&quot;browser-support&quot;&gt;Browser Support&lt;/h2&gt;
-&lt;p&gt;Tale works on most if not all modern browsers, including Chrome, Safari and Firefox 👍🏼&lt;/p&gt;
+&lt;p&gt;Ce que j’aime bien dans le fait de voir beaucoup de contenus médiatiques d’un coup, de manière rapprochée, c’est la manière dont ça fait tréma, souvent un peu par accident. Les premières semaines du confinement, j’ai regardé des trucs au pif, enfin, je pensais, et puis au bout de moment, j’ai pas pu m’empêcher de constater que ça faisait motif. J’ai vu &lt;em&gt;Recount&lt;/em&gt;, un film HBO de 2008 qui raconte le recompte des voix demandé par le camp démocrate lors de l’élection Bush vs. Gore en 2000. Et puis en même temps, j’ai vu &lt;em&gt;Dans la brume électrique&lt;/em&gt; (2009) de Bertrand Tavernier (que j’ai trouvé insupportable, mais passons), et &lt;em&gt;Treme&lt;/em&gt;, qui portent tous les deux sur La Nouvelle Orléans, post-Katrina. Et donc, logiquement sur les années Bush, et plus précisément encore sur le second mandat Bush.&lt;/p&gt;
 
-&lt;h2 id=&quot;download-or-contribute&quot;&gt;Download or Contribute&lt;/h2&gt;
-&lt;p&gt;Tale is publicly hosted on GitHub, so go ahead and download or fork it at the &lt;a href=&quot;https://github.com/chesterhow/tale&quot;&gt;GitHub repository&lt;/a&gt;. If you spot any bugs or have any suggestions, feel free to create an issue or make a pull request.&lt;/p&gt;
+&lt;p&gt;Je dois avouer que j’ai une forte connexion à ces années. Ce sont les années de ma vingtaine. J’étais à New York pour la seconde élection de Bush, en 2004, quand Bush était cette fois opposé à John Kerry. J’étais super déçu que Bush emporte ce second mandat. C’était douloureux, cuisant, de voir que même le désastre de la guerre en Irak ne lui avait pas coûté sa réélection. C’est assez bizarre de regarder ces années depuis les années Trump. J’étais convaincu à l’époque qu’il ne pouvait rien avoir de pire que Bush. J’avais bien évidemment complètement tort. Et du coup, aujourd’hui, on est loin de tout ça, et je réalise que j’ai vieilli, et que ma jeunesse, enfin ma première jeunesse, celle de la vingtaine, s’aligne avec les années Bush. Fallujah, Patriot Act, Katrina.&lt;/p&gt;
 
-&lt;p&gt;Thanks for checking out Tale!&lt;/p&gt;</content><author><name>Chester</name></author><summary type="html">Tale is a minimal Jekyll theme curated for storytellers. It is designed and developed by myself for a friend who writes short stories.</summary></entry><entry><title type="html">Example Content</title><link href="http://localhost:4000/2017-03-16/example-content" rel="alternate" type="text/html" title="Example Content" /><published>2017-03-16T00:00:00+01:00</published><updated>2017-03-16T00:00:00+01:00</updated><id>http://localhost:4000/2017-03-16/example-content</id><content type="html" xml:base="http://localhost:4000/2017-03-16/example-content">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas tincidunt ornare nibh, non elementum augue tempus eget. Pellentesque tempus scelerisque iaculis. Nullam interdum ultricies nibh quis sollicitudin. Donec ornare fermentum facilisis. Ut at sem ac sem imperdiet varius a eget tortor. Nam eu augue eget orci semper maximus in eget augue. Mauris ornare, nisl ut suscipit consectetur, mi quam interdum tellus, at rutrum quam eros ultrices mi.&lt;/p&gt;
+&lt;p&gt;Quand &lt;em&gt;Treme&lt;/em&gt; était sorti, tous mes potes me l’avaient recommandée, j’ai traîné, traîné, et je me retrouve à la voir aujourd’hui, complètement hors-contexte. Enfin, c’est ce que j’ai pensé quand je me suis retrouvé, juste après avoir vu &lt;em&gt;Recount&lt;/em&gt;, plongé à nouveau dans les années Bush. Sur le moment, je me suis dit que ça faisait un trip nostalgique intéressant, loin du contexte actuel… et puis je me suis rendu compte que Treme était ultra-pertinent, pas seulement comme commentaire sur Katrina, sur les années Bush, mais aussi comme contrepoint à la crise du coronavirus.&lt;/p&gt;
 
-&lt;h1 id=&quot;headers&quot;&gt;Headers&lt;/h1&gt;
+&lt;p&gt;Pour celles et ceux qui n’en ont jamais entendu parler, Treme est une série créée par David Simon, le même à qui l’on doit &lt;em&gt;The Wire&lt;/em&gt; (très connue, inutile de la présenter ?), mais aussi &lt;em&gt;The Corner&lt;/em&gt;, antérieure et excellente, et aujourd’hui &lt;em&gt;The Plot against America&lt;/em&gt;. La série suit la formule chère à Simon : une galerie de personnages diversement placés sur les axes de genre, race et classe, dont les destins sont inter-dépendants, ou se croisent parfois plus simplement sur le mode du caméo. On suit ainsi la vie d’un DJ blanc fan de musique et de sa ville ; une barmaid noire qui tente de reconstruire son bar après l’ouragan ; son ex-mari, afro-américain également, joueur de trombone et infidèle chronique ; une chef de restaurant, blanche, qui essaie de faire décoller son affaire avec son sous-chef sans papiers, noir ; une avocate qui milite pour le respect des droits élémentaires, et cherche notamment le frère de la barmaid, disparu après la tempête ; son mari, un prof d’université blanc très remonté contre l’administration Bush, et leur fille ; un « chef Indien » et son fils, joueur de trompette modern jazz ; une violoniste asiatique venue à la Nouvelle Orléans avec son petit ami hollandais, blanc, et qui joue avec lui dans les rues ; un flic blanc qui lutte contre ses collègues très tripoux (ici on retrouve véritablement la touche de &lt;em&gt;The Wire&lt;/em&gt;).&lt;/p&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-markdown&quot; data-lang=&quot;markdown&quot;&gt;&lt;span class=&quot;gh&quot;&gt;# H1&lt;/span&gt;
-&lt;span class=&quot;gu&quot;&gt;## H2&lt;/span&gt;
-&lt;span class=&quot;gu&quot;&gt;### H3&lt;/span&gt;
-&lt;span class=&quot;gu&quot;&gt;#### H4&lt;/span&gt;
-&lt;span class=&quot;gu&quot;&gt;##### H5&lt;/span&gt;
-&lt;span class=&quot;gu&quot;&gt;###### H6&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;p&gt;Le but ici n’est pas de faire la critique de la série, qui est globalement excellente, très bien écrite, même si en lisant d’autres retours je réalise que mon regard plutôt positif tient sans doute au fait que je ne suis pas musicien. Cette chronique de Grantland étrille un peu le regard sur la musique et la représentation des musiciens proposés par la série, mais a le mérite de nommer les propriétés des séries de Simon. Ce n’est certes pas pour en dire du bien : par exemple &lt;em&gt;Treme&lt;/em&gt; serait post-intrigue (&lt;em&gt;post-plot&lt;/em&gt;). L’auteur de la chronique note que cela tient à la sensation que les choses, dans les séries de Simon, semblent souvent peu écrites (ce qui ne revient d’ailleurs pas à dire qu’il y a un défaut d’écriture). Ça m’a permis de mettre le doigt sur ce qui me plaît dans ces séries, et j’en reparlerai peut-être car cela touche au modèle d’écriture opposé, très feuilletonesque et porté sur le cliffhanger, qui à mon sens est un peu en crise. Mais ce sera pour un autre billet.&lt;/p&gt;
 
-&lt;h1 id=&quot;h1&quot;&gt;H1&lt;/h1&gt;
-&lt;h2 id=&quot;h2&quot;&gt;H2&lt;/h2&gt;
-&lt;h3 id=&quot;h3&quot;&gt;H3&lt;/h3&gt;
-&lt;h4 id=&quot;h4&quot;&gt;H4&lt;/h4&gt;
-&lt;h5 id=&quot;h5&quot;&gt;H5&lt;/h5&gt;
-&lt;h6 id=&quot;h6&quot;&gt;H6&lt;/h6&gt;
-
-&lt;h1 id=&quot;text-formatting&quot;&gt;Text formatting&lt;/h1&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-markdown&quot; data-lang=&quot;markdown&quot;&gt;&lt;span class=&quot;p&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;gs&quot;&gt;**Bold**&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;-&lt;/span&gt; _Italics_
-&lt;span class=&quot;p&quot;&gt;-&lt;/span&gt; ~~Strikethrough~~
-&lt;span class=&quot;p&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;&amp;lt;ins&amp;gt;&lt;/span&gt;Underline&lt;span class=&quot;nt&quot;&gt;&amp;lt;/ins&amp;gt;&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;&amp;lt;sup&amp;gt;&lt;/span&gt;Superscript&lt;span class=&quot;nt&quot;&gt;&amp;lt;/sup&amp;gt;&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;&amp;lt;sub&amp;gt;&lt;/span&gt;Subscript&lt;span class=&quot;nt&quot;&gt;&amp;lt;/sub&amp;gt;&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;-&lt;/span&gt; Abbreviation: &lt;span class=&quot;nt&quot;&gt;&amp;lt;abbr&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;title=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;HyperText Markup Language&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;HTML&lt;span class=&quot;nt&quot;&gt;&amp;lt;/abbr&amp;gt;&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;-&lt;/span&gt; Citation: &lt;span class=&quot;nt&quot;&gt;&amp;lt;cite&amp;gt;&lt;/span&gt;&lt;span class=&quot;ni&quot;&gt;&amp;amp;mdash;&lt;/span&gt; Chester How&lt;span class=&quot;nt&quot;&gt;&amp;lt;/cite&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;p&gt;Si Treme, et plus particulièrement l’ouragan Katrina et ses suites peuvent nous être utiles pour penser le coronavirus, voici au moins 5 pistes :&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Bold&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;Italics&lt;/em&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;del&gt;Strikethrough&lt;/del&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;ins&gt;Underline&lt;/ins&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;sup&gt;Superscript&lt;/sup&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;sub&gt;Subscript&lt;/sub&gt;&lt;/li&gt;
-  &lt;li&gt;Abbreviation: &lt;abbr title=&quot;HyperText Markup Language&quot;&gt;HTML&lt;/abbr&gt;&lt;/li&gt;
-  &lt;li&gt;Citation: &lt;cite&gt;— Chester How&lt;/cite&gt;&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Katrina &amp;amp; Corona ont en commun une phase de déni&lt;/strong&gt;. L’épisode final (10) de la saison 1 est très révélateur à cet égard, en capturant les réactions des personnages que l’on connaît alors bien résister à l’évacuation, ne pas prendre les avertissements au sérieux… La posture est surtout visible dans l’attitude De Davis McAlary, qui prédit que l’ouragan va « tourner », comme il le fait toujours (« Last minute, brush by. Always does »). Un peu le même principe que la petite grippe.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Katrina &amp;amp; Corona sont des révélateurs d’une planification médiocre&lt;/strong&gt;. C’est toute la posture de  Creighton Bernette (joué par John Goodman) qui persiste à dire à qui veux bien l’écouter que Katrina est une « catastrophe naturelle causée par l’homme » (« &lt;em&gt;a man-made natural disaster&lt;/em&gt; »). Katrina, en soi, n’a pas de valeur autre que celle d’un gigantesque révélateur, un crash ultime qui révèle la nullité des digues de la ville. La planification concerne toutes sortes de choses : la solidité d’une digue mais aussi les stocks de masques…&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Katrina &amp;amp; Corona incite les dirigeant.e.s à défausser&lt;/strong&gt;, se réfugier derrière un discours de « nous n’avions aucun moyen de savoir », et quand celui-ci est épuisé, il ne reste que le pathos (parler de guerre, par exemple, ou encore des soignant.e.s héros).&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Katrina &amp;amp; Corona montrent que les catastrophes ont toujours une géographie variable&lt;/strong&gt;. Sans surprise, en cas de catastrophe, ce sont les minorités (de genre, raciales, de classe, concernées par le validisme) qui prenne le plus fort les coups. On en a un aperçu avec la féminisation des professions en première ligne, ou encore l’aggravation des violences domestiques ; aux USA, ce sont les noir.e.s qui meurent le plus du Coronavirus. Et bien sûr, les pauvres sont les plus affecté.e.s par le confinement, sans parler de personnes qui ont besoin d’accéder à du care.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Katrina &amp;amp; Corona sont des catastrophes qui frappent de plein fouet les économies de service&lt;/strong&gt;. Après la catastrophe, la ville est vidée, le tissu social distendu. La valeur est replacé sur les biens de première nécessité, et celles et ceux qui font vivre la/les villes avec des besoins apparemment moins immédiats sont là aussi très affecté.e.s.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Katrina &amp;amp; Corona sont des opportunités pour celleux qui savent s’en saisir&lt;/strong&gt;. Le personnage de Nelson Hidalgo, venu du Texas pour faire fortune dans la reconstruction de la Nouvelle Orléans après Katrina, en est l’incarnation. Aujourd’hui, il est peut-être un peu tôt pour savoir qui va s’enrichir grâce au Corona… quoique. On parle déjà de masques dont le prix a explosé ou de la croissance de 8% de Carrefour.&lt;/p&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h1 id=&quot;lists&quot;&gt;Lists&lt;/h1&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-markdown&quot; data-lang=&quot;markdown&quot;&gt;&lt;span class=&quot;p&quot;&gt;1.&lt;/span&gt; Ordered list item 1
-&lt;span class=&quot;p&quot;&gt;2.&lt;/span&gt; Ordered list item 2
-&lt;span class=&quot;p&quot;&gt;3.&lt;/span&gt; Ordered list item 3
-&lt;span class=&quot;p&quot;&gt;
-*&lt;/span&gt; Unordered list item 1
-&lt;span class=&quot;p&quot;&gt;*&lt;/span&gt; Unordered list item 2
-&lt;span class=&quot;p&quot;&gt;*&lt;/span&gt; Unordered list item 3&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Ordered list item 1&lt;/li&gt;
-  &lt;li&gt;Ordered list item 2&lt;/li&gt;
-  &lt;li&gt;Ordered list item 3&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Unordered list item 1&lt;/li&gt;
-  &lt;li&gt;Unordered list item 2&lt;/li&gt;
-  &lt;li&gt;Unordered list item 3&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;links&quot;&gt;Links&lt;/h1&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-markdown&quot; data-lang=&quot;markdown&quot;&gt;Check out tale on &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;GitHub&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;](&lt;/span&gt;&lt;span class=&quot;sx&quot;&gt;https://github.com/chesterhow/tale&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;.&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;Check out tale on &lt;a href=&quot;https://github.com/chesterhow/tale&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h1 id=&quot;images&quot;&gt;Images&lt;/h1&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-markdown&quot; data-lang=&quot;markdown&quot;&gt;&lt;span class=&quot;p&quot;&gt;![&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;Placeholder image&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;](&lt;/span&gt;&lt;span class=&quot;sx&quot;&gt;https://placehold.it/800x400&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;&quot;Placeholder image&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-
-&lt;span class=&quot;p&quot;&gt;![&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;Image with caption&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;](&lt;/span&gt;&lt;span class=&quot;sx&quot;&gt;https://placehold.it/700x400&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;&quot;Image with caption&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;ge&quot;&gt;_This is an image with a caption_&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://placehold.it/800x400&quot; alt=&quot;Placeholder image&quot; title=&quot;Placeholder image&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://placehold.it/700x400&quot; alt=&quot;Image with caption&quot; title=&quot;Image with caption&quot; /&gt;
-&lt;em&gt;This is an image with a caption&lt;/em&gt;&lt;/p&gt;
-
-&lt;h1 id=&quot;code-and-syntax-highlighting&quot;&gt;Code and Syntax Highlighting&lt;/h1&gt;
-&lt;p&gt;Use back-ticks for &lt;code class=&quot;highlighter-rouge&quot;&gt;inline code&lt;/code&gt;. Multi-line code snippets are supported too through Pygments.&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-js&quot; data-lang=&quot;js&quot;&gt;&lt;span class=&quot;c1&quot;&gt;// Sample javascript code&lt;/span&gt;
-&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;s&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;JavaScript syntax highlighting&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;nx&quot;&gt;alert&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;s&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-python&quot; data-lang=&quot;python&quot;&gt;&lt;span class=&quot;c1&quot;&gt;# Sample python code
-&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;s&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;Python syntax highlighting&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;print&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;s&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;Adding &lt;code class=&quot;highlighter-rouge&quot;&gt;linenos&lt;/code&gt; to the highlight tag enables line numbers.&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-js&quot; data-lang=&quot;js&quot;&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
-2
-3
-&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;c1&quot;&gt;// Sample javascript code&lt;/span&gt;
-&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;s&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;JavaScript syntax highlighting&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;nx&quot;&gt;alert&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;s&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;h1 id=&quot;blockquotes&quot;&gt;Blockquotes&lt;/h1&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-markdown&quot; data-lang=&quot;markdown&quot;&gt;&lt;span class=&quot;gt&quot;&gt;&amp;gt; Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h1 id=&quot;horizontal-rule--line-break&quot;&gt;Horizontal Rule &amp;amp; Line Break&lt;/h1&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-markdown&quot; data-lang=&quot;markdown&quot;&gt;Use &lt;span class=&quot;sb&quot;&gt;`&amp;lt;hr&amp;gt;`&lt;/span&gt; for horizontal rules
-
-&lt;span class=&quot;nt&quot;&gt;&amp;lt;hr&amp;gt;&lt;/span&gt;
-
-and &lt;span class=&quot;sb&quot;&gt;`&amp;lt;br&amp;gt;`&lt;/span&gt; for line breaks.
-
-&lt;span class=&quot;nt&quot;&gt;&amp;lt;br&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;Use &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;hr&amp;gt;&lt;/code&gt; for horizontal rules&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;and &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;br&amp;gt;&lt;/code&gt; for line breaks.&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;The end&lt;/em&gt;&lt;/p&gt;</content><author><name>Chester</name></author><summary type="html">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas tincidunt ornare nibh, non elementum augue tempus eget. Pellentesque tempus scelerisque iaculis. Nullam interdum ultricies nibh quis sollicitudin. Donec ornare fermentum facilisis. Ut at sem ac sem imperdiet varius a eget tortor. Nam eu augue eget orci semper maximus in eget augue. Mauris ornare, nisl ut suscipit consectetur, mi quam interdum tellus, at rutrum quam eros ultrices mi.</summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/2017-03-10/welcome-to-jekyll" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2017-03-10T00:00:00+01:00</published><updated>2017-03-10T00:00:00+01:00</updated><id>http://localhost:4000/2017-03-10/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/2017-03-10/welcome-to-jekyll">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+&lt;p&gt;Pour résumer, il peut être intéressant de (re)voir &lt;em&gt;Treme&lt;/em&gt; en période de confinement, ou post-. La série nous permet de garder en tête qu’une catastrophe repose sur une temporalité, et des événements antérieurs nous permettent d’anticiper les discours qui nous seront servis. La « reconstruction » fait d’une certaine manière partie de la catastrophe, et en prolonge souvent les effets.&lt;/p&gt;</content><author><name>The Young Dude</name></author><summary type="html">On est bien d’accord que commencer un blog pendant le confinement de 2020 est totalement cliché. Encore plus cliché : écrire son « two-bit » sur le confinement, des fois qu’il n’y ait pas eu assez de réflexions sur le sujet. Faire une prédiction, essayer de dire un truc intelligent, des fois que ce soit ça, pour faire visionnaire.</summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/2017-03-10/welcome-to-jekyll" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2017-03-10T00:00:00+01:00</published><updated>2017-03-10T00:00:00+01:00</updated><id>http://localhost:4000/2017-03-10/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/2017-03-10/welcome-to-jekyll">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
 
 &lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
 
